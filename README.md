@@ -9,9 +9,19 @@ I'm a backend-leaning .NET developer with growing full-stack experience, focused
 - Continuously improving code quality, security, and long-term maintainability
 
 ## Featured projects
+### [TalesOfCoding](https://www.talesofcoding.com) — Live ASP.NET Core MVC platform
+A production-hosted technology publishing platform built with ASP.NET Core MVC, C#, EF Core, SQL Server, Bootstrap, ASP.NET Core Identity, and Azure.
+
+Selected engineering work:
+- Implemented authentication, email confirmation, two-factor authentication, and account-management flows
+- Added role-based administration and user-management functionality
+- Built blog and tutorial publishing workflows with ownership-based authorisation
+- Separated public catalogue pages from authenticated creator-management workflows
+- Deployed and maintained the production application on Azure App Service with a custom domain
+
+The source repository is private, but the live application is available at [talesofcoding.com](https://www.talesofcoding.com).
 - **FoxiTrack** *(WIP)* – a full-stack job application tracker built with ASP.NET Core and React to organise roles, companies, interview stages, and notes in one clean workflow
 - **WarbandOfTheSpiritborn** *(WIP)* – a community platform featuring Identity-based authentication, role management, and refactoring focused on cleaner architecture and maintainability
-- **TalesOfCoding** *(Private Project, WIP)* – a tech-focused publishing platform currently in development, built with ASP.NET Core MVC, EF Core, SQL Server, Bootstrap, and Azure
 
 ## Skills
 - **Languages & Frameworks:** C#, .NET, ASP.NET Core, JavaScript, React
